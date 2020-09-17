@@ -22,4 +22,4 @@ Please report bugs and other code issues [here](https://github.com/LRG-Champions
 
 ## Contributing
 
-See guidelines for contributing [here](https://github.com/LRG-Champions/blob/main/CONTRIBUTING.md)
+See guidelines for contributing [here](https://github.com/LRG-Champions/template/blob/main/CONTRIBUTING.md)
